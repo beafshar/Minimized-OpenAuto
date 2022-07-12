@@ -1,0 +1,4 @@
+/home/beafshar/education/CPS-FinalProject/cps/openauto/build/CMakeFiles/rebuild_cache.dir
+/home/beafshar/education/CPS-FinalProject/cps/openauto/build/CMakeFiles/edit_cache.dir
+/home/beafshar/education/CPS-FinalProject/cps/openauto/build/CMakeFiles/autoapp.dir
+/home/beafshar/education/CPS-FinalProject/cps/openauto/build/CMakeFiles/autoapp_autogen.dir
